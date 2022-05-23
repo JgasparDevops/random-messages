@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-jg",
+  "version": "1.0.0",
+  "description": "random messajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JgasparDevops/random-messages.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Jesus Gaspar <jgaspar.devops@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JgasparDevops/random-messages/issues"
+  },
+  "homepage": "https://github.com/JgasparDevops/random-messages#readme",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
